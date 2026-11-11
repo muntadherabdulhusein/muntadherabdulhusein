@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Muntadher
 
-<!--
-**muntadherabdulhusein/muntadherabdulhusein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior data analyst based in Belgium. I like taking messy data, cleaning it up and finding the story behind the numbers.
 
-Here are some ideas to get you started:
+I did the AI Bootcamp at BeCode, where I worked on projects from start to finish: scraping data, cleaning it, analysing it, building models and presenting the results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- Excel (pivot tables, formulas, charts)
+- Power BI (dashboards and reports)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
+- SQL
+
+### Projects I'm proud of
+
+- **[Credit card churn](https://github.com/muntadherabdulhusein/DA_projects-credit-card-churn)**: predicting which bank customers will leave and grouping them into segments. Team project, Python + scikit-learn.
+- **[Delivery market analysis](https://github.com/muntadherabdulhusein/delivery-market-analysis-with-SQL)**: answering business questions about food delivery platforms with SQL.
+- **Immo-Eliza**: Belgian real estate prices, in three steps: [scraping](https://github.com/muntadherabdulhusein/immo-eliza-scraping), [price prediction model](https://github.com/muntadherabdulhusein/immo-eliza-ml) and [deployment](https://github.com/muntadherabdulhusein/immo-eliza-deployment).
+- **[Power BI dashboard](https://github.com/muntadherabdulhusein/power-pi-)**
+
+### Languages
+
+Arabic (native), English (fluent), Dutch (intermediate)
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/muntadher-abdulhussein-43313322b/). I'm looking for a data analyst or BI role, feel free to reach out.
