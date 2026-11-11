@@ -24,4 +24,4 @@ Arabic (native), English (fluent), Dutch (intermediate)
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/muntadher-abdulhussein-43313322b/). I'm looking for a data analyst or BI role, feel free to reach out.
+[LinkedIn](https://www.linkedin.com/in/muntadher-abdulhusein/). I'm looking for a data analyst or BI role, feel free to reach out.
